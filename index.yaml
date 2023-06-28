@@ -16,11 +16,11 @@ entries:
     description: A PowerDNS web interface with advanced features.
     digest: c476de8bb473d6806ffe03a3654152a40949ef98235a4a8aa1eba1fe819b0cc2
     maintainers:
-    - email: helm@gavinmogan.com
-      name: Gavin Mogan
+    - email: tobiashz@gmail.com
+      name: Tobias Hazard
     name: powerdnsadmin
     sources:
-    - https://github.com/ngoduykhanh/PowerDNS-Admin
+      - https://github.com/Mr-Folder/powerndsadmin
     type: application
     urls:
     - powerdnsadmin-0.3.1.tgz
