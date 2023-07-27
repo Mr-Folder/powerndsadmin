@@ -12,17 +12,17 @@ entries:
           image: ngoduykhanh/powerdns-admin:0.2.3
     apiVersion: v2
     appVersion: 0.2.3
-    created: "2023-06-28T10:42:42.574864198+02:00"
+    created: "2023-07-27T14:58:07.104146407+02:00"
     description: A PowerDNS web interface with advanced features.
-    digest: c476de8bb473d6806ffe03a3654152a40949ef98235a4a8aa1eba1fe819b0cc2
+    digest: 2b8d513f16e1e6c5c4f8d4a098bda1fd09e4f6a98d61a67ff2bbb19180c22f8c
     maintainers:
-    - email: tobiashz@gmail.com
-      name: Tobias Hazard
+    - email: helm@gavinmogan.com
+      name: Gavin Mogan
     name: powerdnsadmin
     sources:
-      - https://github.com/Mr-Folder/powerndsadmin
+    - https://github.com/ngoduykhanh/PowerDNS-Admin
     type: application
     urls:
     - powerdnsadmin-0.3.1.tgz
     version: 0.3.1
-generated: "2023-06-28T10:42:42.574108043+02:00"
+generated: "2023-07-27T14:58:07.103632555+02:00"
